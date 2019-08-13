@@ -1,6 +1,6 @@
 import numpy as np
 
-# 缺失值
+# 缺失值1
 
 
 def chazhi1(x,y,test_x):
